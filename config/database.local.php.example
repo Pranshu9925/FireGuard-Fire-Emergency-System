@@ -1,0 +1,8 @@
+<?php
+// Copy this file to database.local.php on your hosting account.
+// Replace the placeholders with the exact values from your hosting control panel.
+// NEVER commit database.local.php or publish these credentials in GitHub.
+define('DB_HOST', 'YOUR_MYSQL_HOST');
+define('DB_NAME', 'YOUR_DATABASE_NAME');
+define('DB_USER', 'YOUR_DATABASE_USERNAME');
+define('DB_PASS', 'YOUR_DATABASE_PASSWORD');
